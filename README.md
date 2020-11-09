@@ -1,1 +1,1 @@
-# CPSC418
+# CPSC418 - Introduction to Cryptography
